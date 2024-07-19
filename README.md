@@ -4,11 +4,11 @@ Authored a paper on sustainable energy, addressing the limitations of current so
 ## [Optimizing Urban Bike Distribution for Sustainable Transportation]()
 Developed a MATLAB simulation to optimize urban bike distribution, easing challenges in sustainable planning by addressing overcrowded bike racks, reducing user inconvenience, and enhancing efficiency between the Capitol Building and the Lincoln Memorial over a 30-day period. Promotes accessible and eco-friendly urban transportation.
 
-## [Optimizing Basketball Trajectories]()
+## [Optimizing Basketball Trajectories](https://github.com/vhunany/engineering-simulations/blob/f904e5b68acd01a77fc9395d4601071d6f837370/Hunanyan_Viktorya_S2.mlx)
 Developed a precise MATLAB program using simplified physics and iterative computations to optimize basketball launch conditions. The simulation accurately depicts trajectories, facilitates thorough analysis, refines initial parameters, and identifies the moment the ball reaches the target height.
 
-## [Optimizing Parachute Descent]()
+## [Optimizing Parachute Descent](https://github.com/vhunany/engineering-simulations/blob/f904e5b68acd01a77fc9395d4601071d6f837370/Hunanyan_Viktorya_S3-3.mlx)
 Conducted MATLAB simulation study on parachute descent dynamics, factoring in gravitational acceleration, drag forces, and key parameters for real-world scenarios. Contributed to aeronautics, sports science, and safety protocols by emphasizing iterative optimization for parachute design and addressing contemporary challenges and safety standards.
 
-## [Enhancing Community Resilience: Fire Blanket Strategies in MATLAB Simulations]()
+## [Enhancing Community Resilience: Fire Blanket Strategies in MATLAB Simulations](https://github.com/vhunany/engineering-simulations/blob/f904e5b68acd01a77fc9395d4601071d6f837370/Hunanyan_Viktorya_S4_forestSimulation.mlx)
 Conducted MATLAB simulations to address escalating forest fires, specifically focusing on fire blankets with varying resistance levels. Evaluated their impact on house survival in a 20x20 grid simulation, contributing to the development of effective fire protection strategies.
