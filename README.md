@@ -1,4 +1,4 @@
-## [Optimizing Solar Panel Efficiency: A Study on Sunflower-Inspired Physical Systems]()
+## [Optimizing Solar Panel Efficiency: A Study on Sunflower-Inspired Physical Systems](https://github.com/vhunany/engineering-simulations/blob/aae616351f820b4e2074ae896684a6cae9e5766c/sunny_sunflower_tracking_script.mlx)
 Authored a paper on sustainable energy, addressing the limitations of current solar panel technologies and proposing a design inspired by sunflower heliotropism. The design features a sun-tracking system for optimal sunlight capture. Conducted a life cycle analysis comparing the environmental impact with traditional monocrystalline solar panels, highlighting manufacturing's role. Developed a simulation program in MatLab, demonstrating a 157% increase in daily power generation compared to stationary panels for the tracking solar panel. Constructed a prototype showcasing real-life functionality, including a tracking mechanism and petal movement. Emphasized potential benefits in efficiency, economic viability, and environmental sustainability. 
 
 ## [Optimizing Urban Bike Distribution for Sustainable Transportation]()
